@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a test message. For a master branch
+=======
+This is a new one test message
+>>>>>>> new_branch
